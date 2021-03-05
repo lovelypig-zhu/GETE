@@ -7,12 +7,12 @@ ridiculous  1
 specialty  2
 acquisition  1
 manuscript  1
-disposition  3 *
-salute  3 *
+disposition  3 **
+salute  3 **
 distort  1
 toil  2
-principal  3 *
-convention  3 *
+principal  3 **
+convention  3 **
 graphic  2 *
 indignation 1
 settlement  2
@@ -30,7 +30,7 @@ declare  3
 respond  2 
 optimistic  1 
 hostile  1
-mount 5 *
+mount 5 **
 navigation  3
 aspire  1
 decade  1
