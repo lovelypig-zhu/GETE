@@ -9,7 +9,7 @@ algorithm
 prayer
 proposal
 redeem
-legacy
+legacy   *
 maligant
 recall
 coincide
@@ -19,45 +19,45 @@ spectator
 invest
 fluid
 investment
-fellowship
-interim
+fellowship 
+interim  *
 limited
-organ
+organ *
 rare
-instrument
+instrument  *
 handful
-achive
-conceal
+achive  
+conceal 
 individual
-argument
-nitrogen
-hop
-knob
-array
-lawn
-correspond
-protein
-outrage
-justice
-estate
-pregnant
-significance
-innovation
-hypocrisy
-warefare
-ultimate
-variable
-latent
+argument 
+nitrogen 
+hop 
+knob 
+array  *
+lawn  
+correspond  *
+protein   
+outrage  *
+justice   
+estate   
+pregnant  
+significance 
+innovation 
+hypocrisy  
+warefare 
+ultimate 
+variable  *
+latent  *
 balance
 aid
 extraordinary
 gymnasium
-laundry
-classification
-mutual
-muscle
-avail
+laundry  * 
+classification  
+mutual 
+muscle 
+avail  *
 captive
-postpone
+postpone 
 universal
-handle
+handle 
